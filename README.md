@@ -14,7 +14,8 @@ this project provides a visually engaging and informative experience.
 - **Interactive Filtering** : Users can filter the submarine cables by year of installation
 - **Custom Shader Rendering** : Custom shader rendering for day and night modes with adjustable blending
 - **Tooltip** : Hover interactions to display information about the selected submarine cable.
-
+- **Responsive Design** : The visualization is responsive and adapts to different screen sizes.
+- 
 ## Project Structure
 ```
 submarine-cables-visualization/
