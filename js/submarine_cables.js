@@ -34,7 +34,7 @@ export function initGlobe2() {
 
 // v1 : simple affichage des câbles
 function loadData2(globe) {
-    fetch('data/submarine_cables.geojson')
+    fetch('submarine_cables.geojson')
         .then(response => response.json()) // Parse les données en JSON
         .then(data => {
             console.log('Données GeoJSON récupérées :', data);
@@ -75,7 +75,7 @@ function loadData2(globe) {
 let cables = [];
 let displayedCables = [];
 export function loadData(globe) {
-    fetch('data/submarine_cables.geojson')
+    fetch('submarine_cables.geojson')
         .then(response => response.json())
         .then(data => {
             console.log('Données GeoJSON récupérées :', data);
