@@ -1,6 +1,8 @@
 # Submarine Cables Visualization
 Demo : [Watch Demo](https://youtu.be/98CntlCywEg)
 
+Visualization accessible [here](https://personne73.github.io/submarine-cables-globe/)
+
 ## Overview
 This project visualizes geospatial data on submarine cables using WebGL and Globe.GL. 
 It allows users to explore and interact with a 3D globe displaying these critical infrastructures 
